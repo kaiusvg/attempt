@@ -1,6 +1,6 @@
 import json
 import csv
-
+#inicio do código
 def carregar_afd(arquivo):
     with open(arquivo, 'r') as f:
         dados = json.load(f)
