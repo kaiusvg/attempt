@@ -59,3 +59,4 @@ if __name__ == "__main__":
     arquivo_saida = sys.argv[3]
     
     main(arquivo_automato, arquivo_testes, arquivo_saida)
+#final 
