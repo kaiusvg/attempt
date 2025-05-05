@@ -1,6 +1,6 @@
 # Simulador de Autômato Finito Determinístico (AFD)
 
-simulador simples de AFD (Autômato Finito Determinístico), feito em Python. Ele lê a definição do autômato de um arquivo JSON, processa palavras de um arquivo CSV e escreve os resultados em outro arquivo CSV.
+simulador simples de AFD (Autômato Finito Determinístico), feito em Python. Ele lê a definição do autômato de um arquivo JSON, processa palavras de um arquivo CSV e escreve os resultados em outro arquivo.
 
 ## Arquivos
 
